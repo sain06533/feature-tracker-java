@@ -19,4 +19,7 @@ public class FeatureTracker {
             e.printStackTrace();
         }
     }
+    public static void removeFeature(String feature) {
+    System.out.println("Feature removed: " + feature);
+}
 }
