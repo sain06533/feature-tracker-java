@@ -1,0 +1,2 @@
+javac src/com/example/FeatureTracker.java
+java -cp src com.example.FeatureTracker
